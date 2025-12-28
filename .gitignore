@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# CIFAR-10 dataset folder
+data/
+
+# Trained model checkpoints
+models/*.pth
+
